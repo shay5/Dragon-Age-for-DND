@@ -1,0 +1,28 @@
+p.one {
+	font-family: Georgia, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: lighter;
+	font-style: normal;
+	font-variant: normal;
+}
+p.two {
+	font-family: times, "times new roman", serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: italic;
+	font-variant: small-caps;
+}
+p.three {
+	font-family: courier, "courier new", monospace;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: oblique;
+	font-variant: normal;
+}
+p.four {
+	font-family: courier, "courier new", monospace;
+	font-size: 21px;
+	font-weight: bolder;
+	font-style: normal;
+	font-variant: small-caps;
+}
